@@ -9,8 +9,10 @@
 @media screen and (max-width: 1280px) {
     .card-list{
         display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-gap: 25px;
+        grid-template-columns: 1fr;
+        padding: 0;
+        margin-left: 35px;
+        margin-right: 35px;
     }
     
 }
